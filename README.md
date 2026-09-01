@@ -10,3 +10,7 @@ npm run dev
 ```
 
 浏览器打开 `http://localhost:3000`，可拖放或选择多个项目文件，也可直接选择整个文件夹。分析过程仅在浏览器本地完成。
+
+## 在线使用
+
+打开 [ModelBench](https://bennyzheng1008-hue.github.io/modelbench/) 即可直接使用，无需安装或注册。
